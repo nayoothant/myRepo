@@ -1,7 +1,11 @@
 @charset "utf-8";
 
 * {
+<<<<<<< HEAD
 	padding : 1000px;
+=======
+	padding : 100px;
+>>>>>>> issue02
 	margin : 0 auto;
 }
 body {
